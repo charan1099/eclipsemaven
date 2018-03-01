@@ -6,6 +6,7 @@ public class Demo1 {
 		System.out.println("hai welcome to maven");
 		System.out.println("hai welcome to maven");
 		System.out.println("hai welcome to maven");
+		System.out.println("hai welcome to maven");
 	}
 
 }
